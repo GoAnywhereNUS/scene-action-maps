@@ -1,6 +1,8 @@
 # Scene Action Maps
 
-![Scene Action Maps](assets/system_splash.png)
+<p align="center">
+    <img src="assets/system_splash.png" alt="Scene Action Maps" width="400">
+</p>
 
 This repository contains code to generate Scene Action Maps from various map sources, such as satellite maps. To construct a full robot system as shown in our paper, we also need the following components:
 
